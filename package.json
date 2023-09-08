@@ -1,0 +1,14 @@
+{
+  "name": "jak-query-2",
+  "version": "1.0.32",
+  "description": "A query library to create different Query Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShahzaibJak",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "*"
+  }
+}
